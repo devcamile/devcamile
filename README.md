@@ -1,5 +1,5 @@
 <!-- Banner preto e roxo com efeito digitando -->
-<h1 align="center" style="color:#C084FC">✨ Oi, eu sou a Camile! 👩‍💻</h1>
+<h1 align="center" style="color:#C084FC">✨ eu sou a Camile! 👩‍💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C084FC&center=true&vCenter=true&width=435&lines=uma+Back-end+em+desenvolvimento!;" alt="Typing SVG" />
