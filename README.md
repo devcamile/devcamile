@@ -13,7 +13,7 @@
   
 - 🧠 Atualmente estudando Banco de Dados  
 - 💜 Desenvolvedora back-end em construção  
-- 👾 Dominando o mundo com código e estilo ✨  
+- 👾 mundo com código e estilo ✨  
  
 
 ---
