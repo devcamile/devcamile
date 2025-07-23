@@ -17,7 +17,7 @@
 
 ---
 
-### 💫 Tecnologias que brilham no meu universo
+### 💫 Tecnologias 
 
 <div align="center" style="background-color:#000000; padding: 20px; border-radius: 15px;">
   <img alt="HTML" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -49,13 +49,13 @@
 ### 🌐 
 
 <div align="center">
-  <a href="mailto:camile123dias08santos@gmail.com" target="_blank">
+  <a href="camile123dias08santos@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-ff3333?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
   </a>
   <a href="https://www.instagram.com/dev.camile" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-cc33ff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/>
   </a>
-  <a href="https://www.linkedin.com/in/seuusuario" target="_blank">
+  <a href="https://www.linkedin.com/in/camile-de-jesus-18514b2b9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-8844ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
   </a>
   <a href="https://discord.com/users/Dev.Camile" target="_blank">
